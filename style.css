@@ -15,11 +15,11 @@ body{
 }
 .stopwatch{
     background-color: rgba(0, 0, 0, 0.9);
-    padding: 20px 24px ;
-    border-radius: 10px ;
+    padding: 18px 22px ;
+    border-radius: 19px ;
 }
 .timerDisplay{
-    font-size: 50px ;
+    font-size: 46px ;
     font-weight: 600;
 }
 .buttons{
@@ -27,14 +27,14 @@ body{
 }
 
 .btn{
-    font-size: 20px ;
+    font-size: 18px ;
     background-color: none;
     border: none;
     color: white;
     background-color: var(--clr);
-    padding: 12px 20px ;
+    padding: 11px 19px ;
     margin-inline: 12px ;
-    border-radius: 8px ;
+    border-radius: 6px ;
     cursor: pointer;
 }
 .heading{
